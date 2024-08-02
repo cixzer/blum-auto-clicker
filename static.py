@@ -9,6 +9,6 @@ AUTOCLICKER_TEXT = """
                                                                                                 
 """
 
-DONATE_TEXT = "\033[1;33;48mDonate here (ERC-20):\033[1;37;0m 0x5F06C1c23aF7Cc644B8cBaF0e2b294CbA15CC745" \
-              "\n\033[1;33;48mDonate here (TON):\033[1;37;0m UQBTHDZJnuDr4-v6oc_cDRXYdqggIoQA_tLGv5z2li4DC7GI"
+DONATE_TEXT = "\033[1;33;48mDonate here (ERC-20):\033[1;37;0m 0x1481C6CDA41D58c1Bca17A7949Fe271A88F8915a" \
+              "\n\033[1;33;48mDonate here (TON):\033[1;37;0m  UQCwMCn8p-vDZsL81O_Ib9HTpwaTxa4l8bzg95ztZYd7waBB"
 WINDOW_NOT_FOUND = "Blum window not found! Please open it, and restart the program."
